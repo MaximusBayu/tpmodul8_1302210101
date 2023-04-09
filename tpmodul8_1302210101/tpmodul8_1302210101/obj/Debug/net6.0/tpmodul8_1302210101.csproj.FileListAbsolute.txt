@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\bin\Debug\net6.0\tpmodul8_1302210101.exe
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\bin\Debug\net6.0\tpmodul8_1302210101.deps.json
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\bin\Debug\net6.0\tpmodul8_1302210101.runtimeconfig.json
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\bin\Debug\net6.0\tpmodul8_1302210101.dll
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\bin\Debug\net6.0\tpmodul8_1302210101.pdb
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\obj\Debug\net6.0\tpmodul8_1302210101.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\obj\Debug\net6.0\tpmodul8_1302210101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\obj\Debug\net6.0\tpmodul8_1302210101.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\obj\Debug\net6.0\tpmodul8_1302210101.AssemblyInfo.cs
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\obj\Debug\net6.0\tpmodul8_1302210101.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\obj\Debug\net6.0\tpmodul8_1302210101.dll
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\obj\Debug\net6.0\refint\tpmodul8_1302210101.dll
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\obj\Debug\net6.0\tpmodul8_1302210101.pdb
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\obj\Debug\net6.0\tpmodul8_1302210101.genruntimeconfig.cache
+C:\Users\DELL\source\repos\tpmodul8_1302210101\tpmodul8_1302210101\obj\Debug\net6.0\ref\tpmodul8_1302210101.dll
